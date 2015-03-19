@@ -63,64 +63,64 @@
     <ClCompile Include="keyboardcapture.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\Win32\Debug\Moc\moc_SystemKeyboardReadWrite.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\Win32\Debug\Moc\moc_systemkeyboardreadwrite.cpp">
       <Filter>Generated Files\Debug_Win32</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\x64\Debug\Moc\moc_SystemKeyboardReadWrite.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\x64\Debug\Moc\moc_systemkeyboardreadwrite.cpp">
       <Filter>Generated Files\Debug_x64</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\Win32\Release\Moc\moc_SystemKeyboardReadWrite.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\Win32\Release\Moc\moc_systemkeyboardreadwrite.cpp">
       <Filter>Generated Files\Release_Win32</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\x64\Release\Moc\moc_SystemKeyboardReadWrite.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\x64\Release\Moc\moc_systemkeyboardreadwrite.cpp">
       <Filter>Generated Files\Release_x64</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\Win32\Debug\Moc\moc_keyboard_dialog.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\Win32\Debug\Moc\moc_keyboard_dialog.cpp">
       <Filter>Generated Files\Debug_Win32</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\x64\Debug\Moc\moc_keyboard_dialog.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\x64\Debug\Moc\moc_keyboard_dialog.cpp">
       <Filter>Generated Files\Debug_x64</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\Win32\Release\Moc\moc_keyboard_dialog.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\Win32\Release\Moc\moc_keyboard_dialog.cpp">
       <Filter>Generated Files\Release_Win32</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\x64\Release\Moc\moc_keyboard_dialog.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\x64\Release\Moc\moc_keyboard_dialog.cpp">
       <Filter>Generated Files\Release_x64</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\Win32\Debug\Moc\moc_KeyBoardplugin.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\Win32\Debug\Moc\moc_keyboardplugin.cpp">
       <Filter>Generated Files\Debug_Win32</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\x64\Debug\Moc\moc_KeyBoardplugin.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\x64\Debug\Moc\moc_keyboardplugin.cpp">
       <Filter>Generated Files\Debug_x64</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\Win32\Release\Moc\moc_KeyBoardplugin.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\Win32\Release\Moc\moc_keyboardplugin.cpp">
       <Filter>Generated Files\Release_Win32</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\x64\Release\Moc\moc_KeyBoardplugin.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\x64\Release\Moc\moc_keyboardplugin.cpp">
       <Filter>Generated Files\Release_x64</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\Win32\Debug\Moc\moc_keyboardCaptureThread.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\Win32\Debug\Moc\moc_keyboardcapturethread.cpp">
       <Filter>Generated Files\Debug_Win32</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\x64\Debug\Moc\moc_keyboardCaptureThread.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\x64\Debug\Moc\moc_keyboardcapturethread.cpp">
       <Filter>Generated Files\Debug_x64</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\Win32\Release\Moc\moc_keyboardCaptureThread.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\Win32\Release\Moc\moc_keyboardcapturethread.cpp">
       <Filter>Generated Files\Release_Win32</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\x64\Release\Moc\moc_keyboardCaptureThread.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\x64\Release\Moc\moc_keyboardcapturethread.cpp">
       <Filter>Generated Files\Release_x64</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\Win32\Debug\Moc\moc_KeyBoardCapture.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\Win32\Debug\Moc\moc_keyboardcapture.cpp">
       <Filter>Generated Files\Debug_Win32</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\x64\Debug\Moc\moc_KeyBoardCapture.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\x64\Debug\Moc\moc_keyboardcapture.cpp">
       <Filter>Generated Files\Debug_x64</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\Win32\Release\Moc\moc_KeyBoardCapture.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\Win32\Release\Moc\moc_keyboardcapture.cpp">
       <Filter>Generated Files\Release_Win32</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Build_MSVC\Qt\x64\Release\Moc\moc_KeyBoardCapture.cpp">
+    <ClCompile Include="..\Build_MSVC\Qt\x64\Release\Moc\moc_keyboardcapture.cpp">
       <Filter>Generated Files\Release_x64</Filter>
     </ClCompile>
   </ItemGroup>
@@ -140,7 +140,7 @@
     <ClInclude Include="global.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Build_MSVC\Qt\$(PlatformName)\$(ConfigurationName)\GeneratedFiles\ui_keyboard_dialog.h">
+    <ClInclude Include="..\Build_MSVC\Qt\$(PlatformName)\$(ConfigurationName)\GeneratedFiles\ui_keyboard_dialog.h">
       <Filter>Generated Files</Filter>
     </ClInclude>
   </ItemGroup>

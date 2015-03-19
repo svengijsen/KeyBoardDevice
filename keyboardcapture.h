@@ -25,7 +25,7 @@
 #include <QtScript/QScriptable>
 #include <QMap>
 #include "keyboardcapturethread.h"
-#include "./../../BrainStim/mainappinfo.h"
+#include "mainappinfo.h"
 
 class keyboardCaptureThread;
 class QTScriptEngine;

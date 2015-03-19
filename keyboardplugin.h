@@ -24,7 +24,7 @@
 #include <QtWidgets>
 #include <QString>
 #include <Qlibrary>
-#include "../../BrainStim/plugininterface.h"
+#include "plugininterface.h"
 #include "keyboard_dialog.h"
 #include "keyboardcapture.h"
 #include "defines.h"
