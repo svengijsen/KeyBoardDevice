@@ -123,6 +123,9 @@
     <ClCompile Include="..\Build_MSVC\Qt\x64\Release\Moc\moc_keyboardcapture.cpp">
       <Filter>Generated Files\Release_x64</Filter>
     </ClCompile>
+    <ClCompile Include="..\Build_MSVC\Qt\$(PlatformName)\$(ConfigurationName)\GeneratedFiles\qrc_keyboarddevice.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -163,6 +166,9 @@
     <CustomBuild Include="keyboardcapture.h">
       <Filter>Header Files</Filter>
     </CustomBuild>
+    <CustomBuild Include="keyboarddevice.qrc">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="keyboardplugin.rc" />
@@ -170,5 +176,17 @@
   <ItemGroup>
     <None Include="licenseheader.licenseheader" />
     <None Include="keyboardcapture.json" />
+    <None Include="resources\keyboardplugin_Win32_Debug.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\keyboardplugin_Win32_Release.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\keyboardplugin_x64_Debug.ini">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\keyboardplugin_x64_Release.ini">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
