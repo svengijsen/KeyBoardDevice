@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<QHelpCollectionProject version="1.0">
+<!--doc-version-qhelp-begin-->
+<!-- Please do not edit the below line(s) manually, see DocumentVersioning.qs (15119143922),BrainStim version 1.0.0.1, Plugin version 1.0.0.1-->
+  <assistant>
+		<title>KeyBoardDevice plugin v1.0.0.1</title>
+    <applicationIcon>KeyBoardDevice/images/logo.jpg</applicationIcon>
+    <cacheDirectory>svengijsen/BrainStim/Plugins/KeyBoardDevice</cacheDirectory>
+    <startPage>qthelp://com.svengijsen.brainstim/doc/plugins/KeyBoardDevice/index.html</startPage>
+    <aboutMenuText>
+        <text>About KeyBoardDevice</text>
+    </aboutMenuText>
+    <aboutDialog>
+        <file>KeyBoardDevice/additional/about.txt</file>
+        <icon>KeyBoardDevice/images/logo.jpg</icon>
+    </aboutDialog>
+    <enableDocumentationManager>false</enableDocumentationManager>
+    <enableAddressBar>false</enableAddressBar>
+    <enableFilterFunctionality>false</enableFilterFunctionality>
+  </assistant>
+  <docFiles>
+  	<generate>
+    	<file>
+      	<input>KeyBoardDevice.qhp</input>
+        <output>KeyBoardDevice.qch</output>
+      </file>
+    </generate>
+    <register>
+    	<file>KeyBoardDevice.qch</file>
+    </register>
+  </docFiles>
+	</QHelpCollectionProject>
+<!--doc-version-qhelp-end-->
