@@ -40,8 +40,6 @@ class KeyBoardCapture : public QObject, protected QScriptable
 	//Q_CLASSINFO("ScriptAPIClassName", "ExperimentManager");//Can't use defines here!, moc doesn't handle defines, not needed here
 
 signals:
-	//void TestSignal(QPixmap *);
-
 	//! The CaptureThreadKeyPressed Signal.
 	/*!
 		You can use this Signal for receiving a notification when the capture thread gets triggered by a KeyBoard key-press.

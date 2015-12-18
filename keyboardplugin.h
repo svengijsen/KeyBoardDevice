@@ -52,6 +52,7 @@ private:
 	KeyBoard_Dialog *KeyBoardDiagObject;
 
 public slots:
+	bool HasGUI() { return true; };
     bool ShowGUI();
 	bool IsCompatible() {return PluginInterface::IsCompatible();};
 	QObject *GetScriptMetaObject(int nIndex) {if(nIndex == 0) return (QObject *)KeyBoardObject->metaObject(); else return NULL;};
